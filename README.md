@@ -4,12 +4,10 @@
 
 ```javascript
 {
-	"id": "string",
 	"title": "string",
 	"description": "string",
 	"colored": "boolean",
 	"condition": {
-		"id": "integer",
 		"name": "string"
 	},
 	"created": "datetime",
@@ -37,15 +35,12 @@
 		"to": "integer"
 	},
 	"tags": [{
-		"id": "integer",
 		"name": "string"
 	}],
 	"things": [{
-		"id": "integer",
 		"name": "string"
 	}],
 	"persons": [{
-		"id": "integer",
 		"firstname": "string",
 		"lastnameprefix": "string",
 		"lastname": "string"
