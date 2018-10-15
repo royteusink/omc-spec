@@ -1,4 +1,4 @@
-# OpenMediaCollection - Specification
+# DRAFT - OpenMediaCollection - Specification
 
 ## media spec
 
