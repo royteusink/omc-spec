@@ -34,6 +34,10 @@
 		"from": "integer",
 		"to": "integer"
 	},
+	"colors": [{
+		"name": "string",
+		"hex": "string"
+	}],
 	"tags": [{
 		"name": "string"
 	}],
