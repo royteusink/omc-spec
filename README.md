@@ -1,0 +1,2 @@
+# omc-spec
+OpenMediaCollection - Specification
